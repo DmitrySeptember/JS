@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Document</title>
+
+</head>
+
+<body>
+    <script>
+        //Задание 1
+        let TempC = prompt("Введите температуру в градусах цельсия");
+        let TempF = ((9 / 5) * TempC + 32);
+        alert("Температуура в Фарингейтах = " + TempF);
+        //Задание 2
+        let name = ("Василий");
+        let admin = (name);
+        alert(admin);
+        //Задание 3(4)
+        //Ответ будет 1000108 Так как идет сложение числа и текста
+        //Задание 5
+        // Разобрался :3
+    </script>
+</body>
+
+</html>
