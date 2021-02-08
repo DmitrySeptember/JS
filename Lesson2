@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Document</title>
+
+</head>
+
+<body>
+    <script>
+        /* Задание 1
+          var a = 1, b = 1, c, d;
+          c = ++a; alert(c);           // 2
+          d = b++; alert(d);           // 1
+          c = (2 + ++a); alert(c);      // 5
+          d = (2 + b++); alert(d);      // 4
+          alert(a);                    // 3
+          alert(b);
+ Задание 2
+          let a = 2;
+         let x = 1 + (a *= 2) //x= 1 + a=2 * 2
+         alert(x);
+ Задание 3
+         let a = (Math.random() * (100 + 100) - 100).toFixed(0);
+         let b = (Math.random() * (100 + 100) - 100).toFixed(0);
+         alert(a);
+         alert(b);
+         if (a > 0 && b > 0) {
+             let x = a - b;
+             alert(x);
+         }
+         if (a < 0 && b < 0) {
+             let x = a * b;
+             alert(x);
+         }
+         if ((a > 0 && b < 0) || (a < 0 && b > 0)) {
+             let x = ((+a) + (+b)); // не знаю как, но работает только так, иначе строка
+             alert(x);
+         }
+ Задание 4
+        let a = (Math.random() * (15 - 0) + 0).toFixed(0); // не понял как это сделать Свичем(
+         while (a < 15) {
+             alert(a);
+             a++;
+         }
+
+         Задание 5
+        function sum(a, b) {
+            return a + b;
+        }
+        function razn(a, b) {
+            return a - b;
+        }
+        function umnoj(a, b) {
+            return a * b;
+        }
+        function delen(a, b) {
+            return a / b;
+        }
+        */
+    </script>
+</body>
+
+</html>
